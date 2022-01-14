@@ -1,6 +1,7 @@
 ## Animated On Scroll
 
 Project:
+
 - JavaScript
 - HTML & CSS
 
